@@ -9,6 +9,10 @@ const blogposts = [
     post_id: 2,
     post: "Are there any panthers in Griffith Park?  I feel like I saw a large black cat skulking around near the observatory",
   },
+  {
+    post_id: 3,
+    post: "I could see some glowing things, like eyes above.  I was scared and turned my car around.  I think it was the Mothman trying to warn us of the bridge, THE BRIDGE!",
+  },
 ];
 
 const seedPostData = () => Post.bulkCreate(blogposts);
