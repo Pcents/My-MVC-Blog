@@ -12,7 +12,7 @@
 
 ## Description
 
-A PWA text editor -[Github Repo](https://github.com/Pcents/My-MVC-Blog) -[Site Link](https://pcents.github.io/My-MVC-Blog/)
+A Paranormal Blog -[Github Repo](https://github.com/Pcents/My-MVC-Blog) -[Site Link](https://pcents.github.io/My-MVC-Blog/)
 
 ## Installation
 
